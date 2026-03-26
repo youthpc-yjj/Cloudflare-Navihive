@@ -33,7 +33,7 @@
         "AUTH_ENABLED": "true",
         "AUTH_USERNAME": "admin",
         "AUTH_PASSWORD": "$2a$12$hLozfjYUYNIc09tAPsm5yuYKxFTDewJNFfhErYxf/mfAXbln/EOHS",
-        "AUTH_SECRET": "navihive_secret_key_1234567890abcdefghijklmnopqrstuvwxyz"
+        "AUTH_SECRET": "1234567890abcdefghijklmnopqrstuvwxyz"
     }
 }
 
