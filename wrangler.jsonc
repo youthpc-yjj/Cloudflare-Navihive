@@ -14,6 +14,13 @@
     "observability": {
         "enabled": true
     },
+    // --- 添加下面这段 KV 绑定 ---
+    "kv_namespaces": [
+        {
+            "binding": "NAV_DATA",
+            "id": "d2d855d9ef8041cfaf598107f0d5a8a3" 
+        }
+    ],
     // D1数据库绑定
     "d1_databases": [
         {
